@@ -4,7 +4,7 @@
 
 [Portfolio Website: https://wilgomoreira.github.io/portfolio/](https://wilgomoreira.github.io/portfolio/)
 
-### Using:
+### Using to make the portfolio website :
 
 - React
 - React Roteur Dom 
@@ -12,4 +12,4 @@
 - Styled Components
 
 ### Observation: 
-- The App is not responsive for multiple screens.
+- The Website is not responsive for multiple screens.
