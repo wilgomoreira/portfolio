@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ecc3103f.css",
+    "main.js": "/portfolio/static/js/main.fe7da91c.js",
+    "static/js/787.ec704a7a.chunk.js": "/portfolio/static/js/787.ec704a7a.chunk.js",
+    "static/media/back-portfolio.jpg": "/portfolio/static/media/back-portfolio.13c41db45f2fa31e73c6.jpg",
+    "static/media/mobile3.png": "/portfolio/static/media/mobile3.7b205bbd1f24002932af.png",
+    "static/media/screen0.jpeg": "/portfolio/static/media/screen0.874438a20c5363649a6c.jpeg",
+    "static/media/screen5.jpeg": "/portfolio/static/media/screen5.1df09a7f62bf04c5729d.jpeg",
+    "static/media/screen2.jpeg": "/portfolio/static/media/screen2.e351e92e9837aa151e99.jpeg",
+    "static/media/screen10.jpeg": "/portfolio/static/media/screen10.3a7c06dc7210299cf565.jpeg",
+    "static/media/screen4.jpeg": "/portfolio/static/media/screen4.0a655a688ee79bda97be.jpeg",
+    "static/media/screen1.jpeg": "/portfolio/static/media/screen1.da3f45dd50920e044338.jpeg",
+    "static/media/screen3.jpeg": "/portfolio/static/media/screen3.5b74e4b27e889112f09b.jpeg",
+    "static/media/AppScreen2.jpeg": "/portfolio/static/media/AppScreen2.783408f35c46eaa37a29.jpeg",
+    "static/media/screen8.jpeg": "/portfolio/static/media/screen8.85e819befd3dae678b00.jpeg",
+    "static/media/screen6.jpeg": "/portfolio/static/media/screen6.db834908fee61a593309.jpeg",
+    "static/media/Screen2.png": "/portfolio/static/media/Screen2.3fd79c447cda13f4e590.png",
+    "static/media/AppScreen1.jpeg": "/portfolio/static/media/AppScreen1.05eb9cac76b5ebd77017.jpeg",
+    "static/media/Screen1.png": "/portfolio/static/media/Screen1.cf955cac336143c33ee6.png",
+    "index.html": "/portfolio/index.html",
+    "main.ecc3103f.css.map": "/portfolio/static/css/main.ecc3103f.css.map",
+    "main.fe7da91c.js.map": "/portfolio/static/js/main.fe7da91c.js.map",
+    "787.ec704a7a.chunk.js.map": "/portfolio/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecc3103f.css",
+    "static/js/main.fe7da91c.js"
+  ]
+}
