@@ -1,17 +1,18 @@
 import styled from 'styled-components'
-import imageBackground from '../../assets/back-portfolio.jpg'
+import px2vw from "../../utils/px2vw"
 
 export const Container = styled.div`
     display: flex;
     flex-direction: column;
-    width: 100%;
-    background-image: url(${imageBackground});
+    width: ${px2vw(1920)};
 `;
 
 export const Title = styled.h1`
     font-size: 2rem;
     color: #000046;
-    padding: 4rem;
+    margin-top: ${px2vw(50)};
+    margin-left: ${px2vw(50)};
+    margin-bottom: ${px2vw(50)};
 `;
 
 export const IconArea = styled.div`
@@ -21,14 +22,14 @@ export const IconArea = styled.div`
 `;
 
 export const IconsLink = styled.a`
-    margin-left: 5rem;
-    margin-top: 3rem;
+    margin-left: ${px2vw(50)};
+    margin-top: ${px2vw(50)};
 `;
 
 export const Text = styled.p`
     font-size: 1.5rem;
     color: #333;
-    margin-left: 3rem;
+    margin-left: ${px2vw(50)};
 `;
 
 export const Emphasis = styled.em`

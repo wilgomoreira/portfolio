@@ -18,8 +18,7 @@ export default function ProjForm() {
                 <Item> and which can also instantly <Emphasis>generate</Emphasis> a <Emphasis>list of all of them</Emphasis></Item>
                 <Item> The <Emphasis>list</Emphasis> is <Emphasis>not lost</Emphasis> as it is <Emphasis>saved</Emphasis> to an <Emphasis>external, online database</Emphasis></Item>
             </FuncArea>
-            <Text> <Emphasis>Images:</Emphasis> </Text>
-
+    
             <ImageArea>
                 <Photo src={PhotoScreen1} alt='photoscreen1' />
                 <Photo src={PhotoScreen2} alt='photoscreen2' />

@@ -17,7 +17,6 @@ export default function ProjPorfolio() {
                 <Item> It has my <Emphasis>Skills</Emphasis> as well </Item>
                 <Item> And it <Emphasis>has photos of projects </Emphasis></Item>
             </FuncArea>
-            <Text> <Emphasis>Images: </Emphasis></Text>
 
             <ImageArea>
                 <Photo src={PhotoScreen1} alt='photoscreen1' />

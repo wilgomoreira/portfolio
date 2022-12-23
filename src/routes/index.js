@@ -14,26 +14,30 @@ import ProjGame from '../pages/ProjGame'
 import Contact from '../pages/Contact'
 import Error from '../pages/Error'
 
+import { Container, CenterArea } from "./styles";
+
 export default function RoutesApp() {
     return (
         <BrowserRouter>
-            <div style={{ display: 'flex', flexDirection: 'row'}}>
-                <Sidebar />
-                <Routes>
-                    <Route path='/portfolio' element={<Home />} />
-                    <Route path='/skills' element={<Skills />} />
-                    <Route path='/projchecklist' element={<ProjChecklist />} />
-                    <Route path='/projportfolio' element={<ProjPorfolio />} />
-                    <Route path='/projecommerce' element={<ProjEcommerce />} />
-                    <Route path='/projform' element={<ProjForm />} />
-                    <Route path='/projquotes' element={<ProjQuotes />} />
-                    <Route path='/projgame' element={<ProjGame />} />
+            <Container>
+                <CenterArea>
+                    <Sidebar />
+                    <Routes>
+                        <Route path='/portfolio' element={<Home />} />
+                        <Route path='/skills' element={<Skills />} />
+                        <Route path='/projchecklist' element={<ProjChecklist />} />
+                        <Route path='/projportfolio' element={<ProjPorfolio />} />
+                        <Route path='/projecommerce' element={<ProjEcommerce />} />
+                        <Route path='/projform' element={<ProjForm />} />
+                        <Route path='/projquotes' element={<ProjQuotes />} />
+                        <Route path='/projgame' element={<ProjGame />} />
 
-                    <Route path='/contact' element={<Contact />} />
-                    <Route path='/*' element={ <Error /> } />
-                </Routes>
-            </div>
-            <Footer />
+                        <Route path='/contact' element={<Contact />} />
+                        <Route path='/*' element={<Error />} />
+                    </Routes>
+                </CenterArea>
+                <Footer />
+            </Container>
         </BrowserRouter>
     )
 }

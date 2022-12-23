@@ -18,7 +18,6 @@ export default function ProjEcommerce() {
                 <Item> You can <Emphasis>choose</Emphasis> e and go to <Emphasis>another screen</Emphasis>, <Emphasis>Cart Screen</Emphasis> </Item>
                 <Item> On <Emphasis>Cart Screen</Emphasis>, we have <Emphasis>all items chosen</Emphasis> and the <Emphasis>sum of prices and quantities</Emphasis></Item>
             </FuncArea>
-            <Text> <Emphasis>Images: </Emphasis></Text>
 
             <ImageArea>
                 <Photo src={PhotoScreen1} alt='photoscreen1' />

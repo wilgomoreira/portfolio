@@ -16,8 +16,7 @@ export default function ProjGame() {
                 <Item> The <Emphasis>game</Emphasis> is using <Emphasis>HTML, CSS and Javascript </Emphasis></Item>
                 <Item> <Emphasis>Have Fun! </Emphasis></Item>
             </FuncArea>
-            <Text> <Emphasis> Images: </Emphasis></Text>
-
+    
             <ImageArea>
                 <Photo src={PhotoScreen1} alt='photoscreen1' />
                 <Photo src={PhotoScreen2} alt='photoscreen2' />

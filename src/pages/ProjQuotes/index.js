@@ -14,7 +14,6 @@ export default function ProjQuotes() {
                 <Item> A <Emphasis>phrase</Emphasis> from a <Emphasis>great genius</Emphasis> can be the <Emphasis>most impactful</Emphasis> thing </Item>
                 <Item> The <Emphasis>App</Emphasis> consumption of an <Emphasis>external API</Emphasis> for <Emphasis>genius quotes</Emphasis> </Item>
             </FuncArea>
-            <Text> <Emphasis>Images: </Emphasis></Text>
 
             <ImageArea>
                 <Photo src={PhotoScreen1} alt='photoscreen1' />
