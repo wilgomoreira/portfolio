@@ -11,5 +11,3 @@
 - React Icons
 - Styled Components
 
-### Observation: 
-- The Website is not responsive for multiple screens.
